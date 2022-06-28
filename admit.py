@@ -6,7 +6,7 @@ import tensorflow
 from tensorflow import keras
 from tensorflow.keras import layers
 
-df = pd.read_csv('/content/admission_data.csv')
+df = pd.read_csv('')
 
 df.head()
 
